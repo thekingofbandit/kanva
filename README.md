@@ -1,2 +1,0 @@
-# kanva
-Created with CodeSandbox

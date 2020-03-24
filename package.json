@@ -1,0 +1,21 @@
+{
+  "name": "React Konva Shapes demo",
+  "description": "React Konva sandbox",
+  "version": "0.0.9",
+  "keywords": ["canvas", "react", "konva"],
+  "dependencies": {
+    "konva": "4.2.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-konva": "16.12.0-0"
+  },
+  "devDependencies": {
+    "react-scripts": "2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
